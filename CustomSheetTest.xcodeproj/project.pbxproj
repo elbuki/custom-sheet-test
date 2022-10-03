@@ -11,6 +11,7 @@
 		D0A1B76228EB8B39000BA315 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A1B76128EB8B39000BA315 /* ContentView.swift */; };
 		D0A1B76428EB8B3B000BA315 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0A1B76328EB8B3B000BA315 /* Assets.xcassets */; };
 		D0A1B76728EB8B3B000BA315 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0A1B76628EB8B3B000BA315 /* Preview Assets.xcassets */; };
+		D0A1B76E28EB8F90000BA315 /* ItemDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A1B76D28EB8F90000BA315 /* ItemDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D0A1B76128EB8B39000BA315 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D0A1B76328EB8B3B000BA315 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D0A1B76628EB8B3B000BA315 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D0A1B76D28EB8F90000BA315 /* ItemDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				D0A1B76128EB8B39000BA315 /* ContentView.swift */,
 				D0A1B76328EB8B3B000BA315 /* Assets.xcassets */,
 				D0A1B76528EB8B3B000BA315 /* Preview Content */,
+				D0A1B76D28EB8F90000BA315 /* ItemDetailView.swift */,
 			);
 			path = CustomSheetTest;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D0A1B76E28EB8F90000BA315 /* ItemDetailView.swift in Sources */,
 				D0A1B76228EB8B39000BA315 /* ContentView.swift in Sources */,
 				D0A1B76028EB8B39000BA315 /* CustomSheetTestApp.swift in Sources */,
 			);
